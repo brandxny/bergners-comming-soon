@@ -91,28 +91,19 @@
 .main .logo.cursive{
     font-family: 'Grand Hotel',cursive;
     font-size: 6.3em;
-    
+    margin: 0 0 1em;
 }
 .main .content{
     position: relative;
     z-index: 4;
+    color: #ffffff;
 }
-.main .motto{
-    min-height: 140px;
+form{
+    margin: 0 auto !important;
 }
-.main .motto, .main .subscribe .info-text{
-    font-size: 28px;
-    color: #FFFFFF;
-    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
-    text-align: center;
-    margin-top: 50px;
+p,h1{
     
 }
-.main .subscribe .info-text{
-    font-size: 18px;
-    margin-bottom: 30px;
-}
-
 @keyframes imageAnimation {
     0% {
       animation-timing-function: ease-in;
