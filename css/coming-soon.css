@@ -127,7 +127,7 @@ p.coming-soon{
     font-weight: 600;
 }
 .logo{
-    width: 63%;
+    width: 73%;
     margin: 0 auto; 
 }
 @keyframes imageAnimation {
@@ -158,6 +158,6 @@ p.coming-soon{
         margin: 1em auto 0;
     }
     .logo{
-        width: 33%;
+        width: 43%;
     }
 }
